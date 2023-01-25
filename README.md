@@ -1,9 +1,9 @@
 
-##📚 Gestor base de datos:
+## 📚 Gestor base de datos:
 
 Se crearan versiones de getores de base de datos sql y no SQL.
 
-###📃 FuncionalidadesFuncionalidades:
+### 📃 FuncionalidadesFuncionalidades:
 
 - 📃Crear registros
 - 👓Leer registros
